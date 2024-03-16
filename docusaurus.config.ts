@@ -103,7 +103,7 @@ const config: Config = {
             },
             {
               label: "Twitter",
-              href: "https://twitter.com/docusaurus",
+              href: "https://twitter.com/yishenggudou",
             },
           ],
         },
@@ -116,12 +116,12 @@ const config: Config = {
             },
             {
               label: "GitHub",
-              href: "https://github.com/facebook/docusaurus",
+              href: "https://github.com/open-ipaas",
             },
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Open-Ipaas, Inc. Built with Docusaurus.`,
     },
     prism: {
       theme: prismThemes.github,
