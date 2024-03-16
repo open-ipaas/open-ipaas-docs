@@ -39,7 +39,7 @@ jobs:
           node-version: v20.11.0
           cache: 'npm'
       - run: npm install
-      - run: npm run build 
+      - run: npm run build -- --locale zh-CN
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
