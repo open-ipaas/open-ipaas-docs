@@ -122,6 +122,10 @@ const config: Config = {
               label: "GitHub",
               href: "https://github.com/open-ipaas",
             },
+            {
+              label: "build ci",
+              href: "https://github.com/open-ipaas/open-ipaas.github.io/actions",
+            },
           ],
         },
       ],
