@@ -1,8 +1,8 @@
 {
-  "label": "架构设计",
+  "label": "连接器",
   "position": 5,
   "link": {
     "type": "generated-index",
-    "description": "连接器"
+    "description": "连接器列表"
   }
 }
