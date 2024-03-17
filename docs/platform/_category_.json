@@ -1,8 +1,8 @@
 {
-  "label": "平台",
+  "label": "集成平台",
   "position": 4,
   "link": {
     "type": "generated-index",
-    "description": "平台"
+    "description": "集成平台"
   }
 }
