@@ -98,8 +98,8 @@ const config: Config = {
           title: "Community",
           items: [
             {
-              label: "Stack Overflow",
-              href: "https://stackoverflow.com/questions/tagged/docusaurus",
+              label: "Discussions",
+              href: "https://github.com/orgs/open-ipaas/discussions",
             },
             {
               label: "Zhihu",
@@ -123,7 +123,7 @@ const config: Config = {
               href: "https://github.com/open-ipaas",
             },
             {
-              label: "build ci",
+              label: "Build ci",
               href: "https://github.com/open-ipaas/open-ipaas.github.io/actions",
             },
           ],
