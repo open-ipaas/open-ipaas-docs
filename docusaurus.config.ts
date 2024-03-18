@@ -102,8 +102,8 @@ const config: Config = {
               href: "https://stackoverflow.com/questions/tagged/docusaurus",
             },
             {
-              label: "Discord",
-              href: "https://discordapp.com/invite/docusaurus",
+              label: "Zhihu",
+              href: "https://www.zhihu.com/column/c_1642470858630467584",
             },
             {
               label: "Twitter",
