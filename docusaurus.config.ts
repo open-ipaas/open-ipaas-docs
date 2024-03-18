@@ -98,6 +98,10 @@ const config: Config = {
           title: "Community",
           items: [
             {
+              label: "Stack Overflow",
+              href: "https://stackoverflow.com/questions/tagged/open-ipaas",
+            },
+            {
               label: "Discussions",
               href: "https://github.com/orgs/open-ipaas/discussions",
             },
