@@ -60,7 +60,7 @@ const config: Config = {
     navbar: {
       title: "Open-Ipaas",
       logo: {
-        alt: "Yet Anthor ",
+        alt: "Yet another open source ipaas alternative to zapier",
         src: "img/logo.svg",
       },
       items: [
