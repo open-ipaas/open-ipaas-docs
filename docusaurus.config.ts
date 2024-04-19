@@ -4,7 +4,7 @@ import type * as Preset from "@docusaurus/preset-classic";
 
 const config: Config = {
   title: "Open-Ipaas",
-  tagline: "A Multi-language and Cloud native ipaas Platform",
+  tagline: "A Multi-language and Cloud native ipaas  \n Yet another open source ipaas alternative to zapier",
   favicon: "img/favicon.ico",
 
   // Set the production url of your site here
@@ -60,7 +60,7 @@ const config: Config = {
     navbar: {
       title: "Open-Ipaas",
       logo: {
-        alt: "My Site Logo",
+        alt: "Yet Anthor ",
         src: "img/logo.svg",
       },
       items: [
