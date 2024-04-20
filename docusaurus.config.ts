@@ -72,6 +72,11 @@ const config: Config = {
         },
         { to: "/blog", label: "博客", position: "left" },
         {
+          href: "https://foldspace.cn/",
+          label: "Foldspace",
+          position: "right",
+        },
+        {
           type: "localeDropdown",
           position: "right",
         },
@@ -91,6 +96,10 @@ const config: Config = {
             {
               label: "Tutorial",
               to: "/docs/intro",
+            },
+            {
+              label: "foldspace",
+              href: "http://docs.foldspace.cn",
             },
           ],
         },
